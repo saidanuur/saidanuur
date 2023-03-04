@@ -1,7 +1,7 @@
 [![MasterHead](https://images.app.goo.gl/6ki5yGPgRqVGo33p6)](https://github.com/saidanuur)
 - 👋 Hi, I’m @saidanuur
 - 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Java and web development.
 - 📫 You can reach me via linkedin
 
 <!---
